@@ -1,4 +1,4 @@
-# Web-Mapping-Curriculum
+# Web-Mapping-Curriculum!!!
 
 Instructor: Dan Swick, dan@mapbox.com
 <br> TA: Megan Danielson, megan.danielson@mapbox.com
